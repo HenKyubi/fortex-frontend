@@ -1,6 +1,6 @@
 {
   "homepage": "https://HenKyubi666.github.io/fortex-frontend",
-  "name": "fortex",
+  "name": "fortex-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
